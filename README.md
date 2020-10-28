@@ -1,2 +1,2 @@
-# harry-js
-harry nodejs lib
+# kawala-js
+kawala nodejs lib

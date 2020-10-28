@@ -1,7 +1,7 @@
 {
-  "name": "harry-js",
+  "name": "kawala-js",
   "version": "1.0.0",
-  "description": "harry nodejs lib",
+  "description": "kawala nodejs lib",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -12,15 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/witheng/harry-js.git"
+    "url": "git+https://github.com/witheng/kawala-js.git"
   },
-  "keywords": [
-    "utils"
-  ],
-  "author": "witheng",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/witheng/harry-js/issues"
+    "url": "https://github.com/witheng/kawala-js/issues"
   },
-  "homepage": "https://github.com/witheng/harry-js#readme"
+  "homepage": "https://github.com/witheng/kawala-js#readme"
 }
