@@ -14,9 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/witheng/kawala-js.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "keywords": [
     "blockchain",
     "chain tools"
